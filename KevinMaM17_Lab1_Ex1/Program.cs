@@ -16,7 +16,7 @@ namespace KevinMaM17_Lab1_Ex1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Exercise1());
         }
     }
 }
